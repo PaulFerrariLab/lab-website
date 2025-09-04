@@ -3,8 +3,10 @@
 
 # Welcome!
 
-Our lab is housed in the Jack H. Miller Magnetoencephalography Center at Helen DeVos Children's Hospital.  
+Our lab is housed in the Jack H. Miller Magnetoencephalography Center at Helen DeVos Children's Hospital.
 Here you can learn more about our clinical and academic research, ongoing projects, and personnel.
+
+Our lab also hosts the monthly NAME colloquium at Corewell Health West; information regarding future meetings can be found [here](NAME).
 
 {% include section.html %}
 
