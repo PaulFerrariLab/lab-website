@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: Ferrari Lab
-subtitle: Multi-modal cognitive neuroscience research | Clinical brain mapping
-description: Welcome! Our lab is housed in the Jack H. Miller Magnetoencephalography Center at Helen DeVos Children's Hospital. Here you can learn more about our research, projects, and personnel.
+subtitle: Multi-modal neuroimaging  |  Cognitive neuroscience  |  Clinical brain mapping
+description: Welcome! Our lab is housed in the Jack H. Miller Magnetoencephalography Center at Helen DeVos Children\'s Hospital. Here you can learn more about our research, projects, and personnel.
 header: images/brain-banner.jpg
 footer: images/neuron-banner.avif
 proofer: false
