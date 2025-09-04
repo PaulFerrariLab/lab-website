@@ -1,9 +1,9 @@
 ---
 ---
 
-# Ferrari Lab
+# Welcome!
 
-Welcome! Our lab is housed in the Jack H. Miller Magnetoencephalography Center at Helen DeVos Children"'"s Hospital. Here you can learn more about our research, projects, and personnel.
+Our lab is housed in the Jack H. Miller Magnetoencephalography Center at Helen DeVos Children's Hospital. Here you can learn more about our research, projects, and personnel.
 
 {% include section.html %}
 
