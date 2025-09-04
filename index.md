@@ -1,9 +1,9 @@
 ---
 ---
 
-# PaulFerrariLab's Website
+# Ferrari Lab
 
-An engaging 1-3 sentence description of your lab.
+Welcome! Our lab is housed in the Jack H. Miller Magnetoencephalography Center at Helen DeVos Children"'"s Hospital. Here you can learn more about our research, projects, and personnel.
 
 {% include section.html %}
 
