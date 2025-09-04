@@ -1,19 +1,17 @@
 # site properties and page defaults
-title: PaulFerrariLab
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+title: Ferrari Lab
+subtitle: Multi-modal cognitive neuroscience research | Clinical brain mapping
+description: Welcome! Our lab is housed in the Jack H. Miller Magnetoencephalography Center at Helen DeVos Children's Hospital. Here you can learn more about our research, projects, and personnel.
+header: images/brain-banner.jpg
+footer: images/neuron-banner.avif
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@PaulFerrariLab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: PaulFerrariLab@gmail.com
+  orcid: 0000-0002-2577-0947
+  google-scholar: sflIkXQAAAA
   github: PaulFerrariLab
-  twitter: PaulFerrariLab
-  youtube: PaulFerrariLab
 
 ### jekyll settings
 
