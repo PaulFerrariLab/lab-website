@@ -5,6 +5,7 @@ description:
 header: images/brain-banner.jpg
 footer: images/neuron-banner.avif
 proofer: false
+color-scheme: dark
 
 # site social media and other links
 links:
