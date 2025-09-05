@@ -4,9 +4,9 @@
 # Welcome!
 
 Our lab is housed in the Jack H. Miller Magnetoencephalography Center at Helen DeVos Children's Hospital in Grand Rapids, Michigan.
-Explore our website to learn more about our clinical and academic research, ongoing projects, and personnel.
+Explore our website to learn more about our clinical and academic research, ongoing projects, and personnel. Or, navigate to the MEG Center's [clinical website](https://corewellhealth.org/care-and-specialties/childrens/helen-devos-childrens-hospital/magnetoencephalography-center).
 
-Our lab also hosts the monthly NAME colloquium at Corewell Health West; information regarding future meetings can be found [here](NAME).
+We also host the monthly NAME colloquium at Corewell Health West; information regarding future meetings can be found [here](NAME).
 
 {% include section.html %}
 
