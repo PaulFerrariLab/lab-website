@@ -38,6 +38,14 @@ tech:
   icon: fa-solid fa-laptop-medical
   description: MEG Technologist
 
+visiting-scientist:
+  icon: fa-solid fa-brain
+  description: Visiting Scientist
+
+collaborator:
+  icon: fa-solig fa-people-group
+  description: Collaborator
+
 # general
 
 link:

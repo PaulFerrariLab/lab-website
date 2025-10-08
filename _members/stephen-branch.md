@@ -1,6 +1,6 @@
 ---
 name: Stephen Branch, PhD
-image: images/team/sb.jfif
+image: images/team/sb.jpeg
 role: engineer
 aliases:
   - S Branch
