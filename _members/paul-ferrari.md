@@ -2,7 +2,7 @@
 name: Paul Ferrari, PhD
 image: images/team/pf.jfif
 role: principal-investigator
-description: Technical Director
+description: <br>Technical Director
 aliases:
   - P Ferrari
   - P. Ferrari

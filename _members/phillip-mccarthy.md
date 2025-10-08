@@ -1,5 +1,5 @@
 ---
-name: Phillip McCarthy, MD
+name: Phillip McCarthy, DO
 image: images/team/pm.jfif
 role: epileptologist
 aliases:
