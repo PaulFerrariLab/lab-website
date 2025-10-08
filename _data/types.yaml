@@ -26,6 +26,14 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
+engineer:
+  icon: fa-solid fa-brain
+  description: Clinical Engineer
+
+epileptologist:
+  icon: fa-solid fa-stethoscope
+  description: Epileptologist
+
 # general
 
 link:
