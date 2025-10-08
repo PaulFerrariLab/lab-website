@@ -9,11 +9,11 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'principal-investigator' and role != 'collaborator'" style="tiny" %}
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and role != 'collaborator'" style="tiny" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator' and role != 'collaborator'" style="small" %}
+{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and role != 'collaborator'" style="small" %}
 
 # {% include icon.html icon="fa-solid fa-users" %}Collaborators
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'collaborator'" style="tiny" %}
+{% include list.html data="members" component="portrait" filter="role == 'collaborator'" style="small" %}

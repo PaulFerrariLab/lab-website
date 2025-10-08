@@ -1,7 +1,7 @@
 ---
 name: Angel Hernandez, MD
 image: images/team/ah.jfif
-role: epileptologist
+role: collaborator
 aliases:
   - A Hernandez
   - A. Hernandez
