@@ -9,14 +9,14 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" style="small" %}
-{% include list.html data="members" component="portrait" filter="role == 'engineer'" style="small" %}
-{% include list.html data="members" component="portrait" filter="role == 'visiting-scientist'" style="small" %}
-{% include list.html data="members" component="portrait" filter="role == 'tech'" style="small" %}
-{% include list.html data="members" component="portrait" filter="role == 'epileptologist'" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" style="tiny" %}
+{% include list.html data="members" component="portrait" filter="role == 'engineer'" style="tiny" %}
+{% include list.html data="members" component="portrait" filter="role == 'visiting-scientist'" style="tiny" %}
+{% include list.html data="members" component="portrait" filter="role == 'tech'" style="tiny" %}
+{% include list.html data="members" component="portrait" filter="role == 'epileptologist'" style="tiny" %}
 
 # {% include icon.html icon="fa-solid fa-users" %}Collaborators
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'collaborator'" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'collaborator'" style="tiny" %}
