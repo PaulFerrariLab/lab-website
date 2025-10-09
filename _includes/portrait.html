@@ -30,7 +30,7 @@
       {% include fallback.html %}
     >
 
-    <!-- {% if member.name %}
+    {% if member.name %}
       <div class="row">
         <span class="portrait-name">
           {{ member.name }}
@@ -39,13 +39,13 @@
           {{ member.description }}
         </span>
       </div>
-    {% endif %} -->
+    {% endif %}
 
-    {% if member.name %}
+    <!-- {% if member.name %}
       <span class="portrait-name">
         {{ member.name }}
       </span>
-    {% endif %}
+    {% endif %} -->
 
     {% if member.description or type %}
       <span class="portrait-description">
