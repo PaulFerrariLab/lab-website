@@ -61,12 +61,8 @@
   box-shadow: var(--shadow);
 }
 
-// .portrait[data-style="tiny"] .portrait-image {
-//   width: 50px;
-//   margin: 0;
-// }
-
 .portrait[data-style="tiny"] .portrait-image {
+  // width: 50px;
   width: 100px;
   margin: 0;
 }
@@ -76,9 +72,9 @@
   font-weight: var(--semi-bold);
 }
 
-// .portrait[data-style="tiny"] {
-//   .portrait-description,
-//   .portrait-affiliation {
-//     display: none;
-//   }
-// }
+.portrait[data-style="tiny"] {
+  .portrait-description,
+  .portrait-affiliation {
+    display: none;
+  }
+}
