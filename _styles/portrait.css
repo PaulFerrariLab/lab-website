@@ -58,17 +58,11 @@
   box-shadow: var(--shadow);
 }
 
-.portrait[data-style=tiny] .portrait-image {
-  width: 50px;
-  margin: 0;
-}
-
 .portrait-name {
   font-family: var(--heading);
   font-weight: var(--semi-bold);
 }
 
-.portrait[data-style=tiny] .portrait-description,
 .portrait[data-style=tiny] .portrait-affiliation {
   display: none;
 }
