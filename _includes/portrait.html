@@ -31,13 +31,14 @@
     >
 
     {% if member.name %}
-      <span class="portrait-name">
-        {{ member.name }}
-      </span>
-      <br>
-      <span class="portrait-description-modified">
-        {{ member.description }}
-      </span>
+      <div class="row">
+        <span class="portrait-name">
+          {{ member.name }}
+        </span>
+        <span>
+          {{ member.description }}
+        </span>
+      </div>
     {% endif %}
 
     {% if member.description or type %}
