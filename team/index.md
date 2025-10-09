@@ -15,8 +15,7 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'tech'" style="tiny" %}
 {% include list.html data="members" component="portrait" filter="role == 'epileptologist'" style="tiny" %}
 
-# {% include icon.html icon="fa-solid fa-users" %}Collaborators
-
 {% include section.html %}
+# {% include icon.html icon="fa-solid fa-users" %}Collaborators
 
 {% include list.html data="members" component="portrait" filter="role == 'collaborator'" style="tiny" %}
