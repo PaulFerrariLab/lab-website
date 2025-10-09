@@ -67,12 +67,8 @@
 // }
 
 .portrait[data-style="tiny"] .portrait-image {
-  width: 50%;
-  margin-bottom: 20px;
-  aspect-ratio: 1 / 1;
-  border-radius: 999px;
-  object-fit: cover;
-  box-shadow: var(--shadow);
+  width: 100px;
+  margin: 0;
 }
 
 .portrait-name {
@@ -80,9 +76,9 @@
   font-weight: var(--semi-bold);
 }
 
-.portrait[data-style="tiny"] {
-  // .portrait-description,
-  .portrait-affiliation {
-    display: none;
-  }
-}
+// .portrait[data-style="tiny"] {
+//   .portrait-description,
+//   .portrait-affiliation {
+//     display: none;
+//   }
+// }
