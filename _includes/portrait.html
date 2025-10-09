@@ -31,14 +31,9 @@
     >
 
     {% if member.name %}
-      <div class="row">
-        <span class="portrait-name">
-          {{ member.name }}
-        </span>
-        <span>
-          {{ member.description }}
-        </span>
-      </div>
+      <span class="portrait-name">
+        {{ member.name <br> member.description }}
+      </span>
     {% endif %}
 
     <!-- {% if member.name %}
