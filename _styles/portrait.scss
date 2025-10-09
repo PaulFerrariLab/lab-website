@@ -66,6 +66,15 @@
 //   margin: 0;
 // }
 
+.portrait[data-style="tiny"] .portrait-image {
+  width: 50%;
+  margin-bottom: 20px;
+  aspect-ratio: 1 / 1;
+  border-radius: 999px;
+  object-fit: cover;
+  box-shadow: var(--shadow);
+}
+
 .portrait-name {
   font-family: var(--heading);
   font-weight: var(--semi-bold);
