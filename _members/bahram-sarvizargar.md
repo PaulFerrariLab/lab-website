@@ -3,6 +3,8 @@ name: Bahram SarviZargar, MS
 image: images/team/bsz.jfif
 role: engineer
 aliases:
+  - Bahram SarviZargar
+  - Bahram Sarvi Zargar
   - B SarviZargar
   - B. SarviZargar
 links:

@@ -3,6 +3,7 @@ name: David Burdette, MD
 image: images/team/db.jfif
 role: epileptologist
 aliases:
+  - David Burdette
   - D Burdette
   - D. Burdette
   - Dave Burdette

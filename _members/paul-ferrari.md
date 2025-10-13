@@ -4,6 +4,7 @@ image: images/team/pf.jfif
 role: principal-investigator
 description: Technical Director
 aliases:
+  - Paul Ferrari
   - P Ferrari
   - P. Ferrari
 links:
