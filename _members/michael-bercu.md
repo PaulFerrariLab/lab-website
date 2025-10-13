@@ -1,6 +1,6 @@
 ---
 name: Michael Bercu, MD
-image: images/team/ah.jfif
+image: images/team/mb.png
 role: collaborator
 aliases:
   - Michael Bercu

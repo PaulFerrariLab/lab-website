@@ -1,6 +1,6 @@
 ---
 name: Douglas Cheyne, PhD
-image: images/team/ah.jfif
+image: images/team/dc.jpg
 role: collaborator
 aliases:
   - Douglas Cheyne

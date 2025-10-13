@@ -1,6 +1,6 @@
 ---
 name: Jun Wang, PhD
-image: images/team/ah.jfif
+image: images/team/jw.avif
 role: collaborator
 aliases:
   - Jun Wang
