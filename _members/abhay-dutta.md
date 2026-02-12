@@ -1,7 +1,7 @@
 ---
 name: Abhay Dutta, BS
-image: images/team/ab.jfif
-role: MS student | GVSU
+image: images/team/ad.jfif
+role: abhay
 aliases:
   - Abhay Dutta
   - A Dutta
