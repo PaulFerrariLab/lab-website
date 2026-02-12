@@ -14,8 +14,8 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'visiting-scientist'" style="tiny" %}
 {% include list.html data="members" component="portrait" filter="role == 'tech'" style="tiny" %}
 {% include list.html data="members" component="portrait" filter="role == 'epileptologist'" style="tiny" %}
-{% include list.html data="members" component="portrait" filter="role == 'PhD candidate | UT Austin'" style="tiny" %}
-{% include list.html data="members" component="portrait" filter="role == 'MS student | GVSU'" style="tiny" %}
+{% include list.html data="members" component="portrait" filter="role == 'keerthi'" style="tiny" %}
+{% include list.html data="members" component="portrait" filter="role == 'abhay'" style="tiny" %}
 
 {% include section.html %}
 # {% include icon.html icon="fa-solid fa-users" %}Collaborators
