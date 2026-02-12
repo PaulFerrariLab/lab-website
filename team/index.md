@@ -14,6 +14,8 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'visiting-scientist'" style="tiny" %}
 {% include list.html data="members" component="portrait" filter="role == 'tech'" style="tiny" %}
 {% include list.html data="members" component="portrait" filter="role == 'epileptologist'" style="tiny" %}
+{% include list.html data="members" component="portrait" filter="role == 'PhD Candidate | UT Austin'" style="tiny" %}
+{% include list.html data="members" component="portrait" filter="role == 'MS Student | GVSU'" style="tiny" %}
 
 {% include section.html %}
 # {% include icon.html icon="fa-solid fa-users" %}Collaborators
