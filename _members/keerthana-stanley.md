@@ -1,6 +1,6 @@
 ---
 name: Keerthana Stanley, BS
-image: images/team/ks.jpeg
+image: images/team/ks.png
 role: PhD candidate | UT Austin
 aliases:
   - Keerthana Stanley
