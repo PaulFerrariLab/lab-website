@@ -34,6 +34,12 @@ epileptologist:
 tech:
   description: MEG Technologist
 
+abhay:
+  description: MS student | GVSU
+
+keerthi:
+  description: PhD candidate | UT Austin
+
 visiting-scientist:
   description: Visiting Scientist
 
